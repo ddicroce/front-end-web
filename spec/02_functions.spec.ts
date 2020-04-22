@@ -335,7 +335,5 @@ describe('some practical examples', () => {
 
             // CURSOR - current set of records
         });
-
-
     });
 });
